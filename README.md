@@ -8,7 +8,7 @@ Add any code you wish for your project and this will handle the radio communicat
 | 🌍 <a href="http://www.mkme.org">mkme.org</a><br>
 
 Support this project and become a patron on <a href="http://mkme.org/patreon">Eric's Patreon</a>.<br>
-Website, Forum and store are at http://mkme.org
+Website, Forum and store are at http://mkme.org <br>
 Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 </p>
 Full video here:
