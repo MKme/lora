@@ -17,7 +17,9 @@ tbd
 
 ### Handy DIY LORA code
 
-Simple LORA communications code for Arduino
+Simple LORA communications code for Arduino.  Toggle the master/slave (1/0) in the code and program one module as master and one as slave
+Add any more functions and code you like for your specific project
+battery indicator on OLEDpower switch puts board in to low power LDO Vreg
  
  ### Wiring to Feather LORA
 | Pin On LED| Pin on Feather LORA |
