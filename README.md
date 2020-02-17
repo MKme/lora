@@ -20,12 +20,13 @@ tbd
 Simple LORA communications code for Arduino.  Toggle the master/slave (1/0) in the code and program one module as master and one as slave
 Add any more functions and code you like for your specific project
 battery indicator on OLEDpower switch puts board in to low power LDO Vreg
+Antenna: Antenna 915 MHz - 3 inches or 7.8 cm
  
- ### Wiring to Feather LORA
-| Pin On LED| Pin on Feather LORA |
+ ### Wiring to turn OFF Feather Power (Power Switch)
+| Pin On Feather| ------ |
 | ---------- |----------------|
-| Batt | ???  |
-| ???  | GND |
+| EN Pin | GND  |
+
 
 <p align="center">
   <img src="haddimghere"/>
