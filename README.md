@@ -1,7 +1,7 @@
 <p align="center">
-<b>LORA code anyone can use for their communications project</b><br>
+<b>LORA code anyone can use for their micro-controller project that needs wireless communication</b><br>
 Use this to add a simple radio master and slave with bi-directional communications between them
-Add any code you wish for you project and this will handle the radio com. backbone<br><br>
+Add any code you wish for your project and this will handle the radio communications backbone for you<br><br>
 <br>🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
 | 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
 | 🌍 <a href="http://www.mkme.org">mkme.org</a><br>
