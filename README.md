@@ -1,6 +1,8 @@
 <p align="center">
 <b>LORA code anyone can use for their communications project</b><br>
 Use this to add a simple Tradio master and slave with bi-directional communications between them<br><br>
+
+<p align="center"><img src="https://github.com/MKme/lora/blob/master/Photos/IMG_2611.jpg"/></p>
 <br>🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
 | 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
 | 🌍 <a href="http://www.mkme.org">mkme.org</a><br>
@@ -29,7 +31,7 @@ Antenna: Antenna 915 MHz - 3 inches or 7.8 cm
 
 
 <p align="center"><img src="https://github.com/MKme/lora/blob/master/Photos/IMG_2609.jpg"/></p>
-<p align="center"><img src="https://github.com/MKme/lora/blob/master/Photos/IMG_2611.jpg"/></p>
+
 
 ### Parts needed
 
