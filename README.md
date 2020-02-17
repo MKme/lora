@@ -1,8 +1,6 @@
 <p align="center">
 <b>LORA code anyone can use for their communications project</b><br>
 Use this to add a simple Tradio master and slave with bi-directional communications between them<br><br>
-
-<p align="center"><img src="https://github.com/MKme/lora/blob/master/Photos/IMG_2611.jpg"/></p>
 <br>🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
 | 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
 | 🌍 <a href="http://www.mkme.org">mkme.org</a><br>
@@ -16,7 +14,7 @@ Youtube : http://www.youtube.com/mkmeorg Website, Forum and store are at http://
 
 Full video here:
 tbd
-
+<p align="center"><img src="https://github.com/MKme/lora/blob/master/Photos/IMG_2611.jpg"/></p>
 ### Handy DIY LORA code
 
 Simple LORA communications code for Arduino.  Toggle the master/slave (1/0) in the code and program one module as master and one as slave
