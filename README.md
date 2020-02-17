@@ -1,6 +1,7 @@
 <p align="center">
 <b>LORA code anyone can use for their communications project</b><br>
-Use this to add a simple Tradio master and slave with bi-directional communications between them<br><br>
+Use this to add a simple radio master and slave with bi-directional communications between them
+Add any code you wish for you project and this will handle the radio com. backbone<br><br>
 <br>🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
 | 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
 | 🌍 <a href="http://www.mkme.org">mkme.org</a><br>
