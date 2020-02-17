@@ -1,6 +1,6 @@
 <p align="center">
-<b>LORA code anyone can use</b><br>
-Open Source<br><br>
+<b>LORA code anyone can use for their communications project</b><br>
+Use this to add a simple Tradio master and slave with bi-directional communications between them<br><br>
 <br>🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
 | 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
 | 🌍 <a href="http://www.mkme.org">mkme.org</a><br>
@@ -22,8 +22,8 @@ Simple LORA communications code for Arduino
  ### Wiring to Feather LORA
 | Pin On LED| Pin on Feather LORA |
 | ---------- |----------------|
-| LED - | D3 Via resistor  |
-| LED +  | 5V |
+| Batt | ???  |
+| ???  | GND |
 
 <p align="center">
   <img src="haddimghere"/>
@@ -31,9 +31,11 @@ Simple LORA communications code for Arduino
 
 ### Parts needed
 
-Feather 
+Feather https://amzn.to/2V9ZAvp
 
-Feather OLED 
+Feather OLED https://amzn.to/32d72HD
+
+### Reference Links (also in code):
 
 Ref: Adafruit Power management https://learn.adafruit.com/adafruit-feather-m0-basic-proto/power-management#enable-pin
 
