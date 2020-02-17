@@ -1,16 +1,24 @@
 /*
  * Moved to PUBLIC GIT Feb 2020 YAY!!!! finally
+ * Simple LORA communications code for Arduino.  Toggle the master/slave (1/0) in the code and program one module as master and one as slave 
+ * Add any more functions and code you like for your specific project
+ * battery indicator on OLEDpower switch puts board in to low power LDO Vreg
+ * 
+ * Parts needed:
+ * Feather https://amzn.to/2V9ZAvp
+ * Feather OLED https://amzn.to/32d72HD
+ * 
+ * Notes-Random Info I will lose:
  * OLED draws 10 mA when in use
  * Button pins are A=9 (same as batt pin ugh) B=6, C=5
  * I2C add=0x3C
- * 
  * Compare string values https://www.arduino.cc/en/Tutorial/StringComparisonOperators
  * Antenna 915 MHz - 3 inches or 7.8 cm
  * Feather Pinouts: https://learn.adafruit.com/adafruit-feather-32u4-radio-with-rfm69hcw-module/pinouts
  * Power Management: https://learn.adafruit.com/adafruit-feather-32u4-radio-with-rfm69hcw-module/power-management
  * 
- * 
- * V1.0
+ * Release history
+ * V1.0 
  * Renamed to version IDs as is first functional build with radios communicating
  * Beginning to add I/O functionality from here
  * 
