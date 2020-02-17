@@ -15,7 +15,8 @@ Youtube : http://www.youtube.com/mkmeorg Website, Forum and store are at http://
 Full video here:
 tbd
 <p align="center"><img src="https://github.com/MKme/lora/blob/master/Photos/IMG_2611.jpg"/></p>
-### Handy DIY LORA code
+
+### Easy project for any long range communications need
 
 Simple LORA communications code for Arduino.  Toggle the master/slave (1/0) in the code and program one module as master and one as slave
 Add any more functions and code you like for your specific project
@@ -27,8 +28,6 @@ Antenna: Antenna 915 MHz - 3 inches or 7.8 cm
 | ---------- |----------------|
 | EN Pin | GND  |
 
-
-<p align="center"><img src="https://github.com/MKme/lora/blob/master/Photos/IMG_2609.jpg"/></p>
 
 
 ### Parts needed
@@ -45,7 +44,7 @@ Ref: Adafruit Power management https://learn.adafruit.com/adafruit-feather-m0-ba
 
 Power switch: https://io.adafruit.com/blog/tip/2016/12/14/feather-power-switch/
 
-
+<p align="center"><img src="https://github.com/MKme/lora/blob/master/Photos/IMG_2609.jpg"/></p>
 
 
 
