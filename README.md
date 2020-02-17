@@ -35,6 +35,11 @@ Feather
 
 Feather OLED 
 
+Ref: Adafruit Power management https://learn.adafruit.com/adafruit-feather-m0-basic-proto/power-management#enable-pin
+
+Power switch: https://io.adafruit.com/blog/tip/2016/12/14/feather-power-switch/
+
+
 
 
 
