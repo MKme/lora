@@ -6,14 +6,13 @@ Use this to add a simple Tradio master and slave with bi-directional communicati
 | 🌍 <a href="http://www.mkme.org">mkme.org</a><br>
 <br>
 Support this project and become a patron on <a href="http://mkme.org/patreon">Eric's Patreon</a>.<br>
-Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
+Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 </p>
 
-
-Youtube : http://www.youtube.com/mkmeorg Website, Forum and store are at http://mkme.org
+Website, Forum and store are at http://mkme.org
 
 Full video here:
-tbd
+TBD
 <p align="center"><img src="https://github.com/MKme/lora/blob/master/Photos/IMG_2611.jpg"/></p>
 
 ### Easy project for any long range communications need
@@ -23,14 +22,14 @@ Add any more functions and code you like for your specific project
 battery indicator on OLEDpower switch puts board in to low power LDO Vreg
 Antenna: Antenna 915 MHz - 3 inches or 7.8 cm
  
- ### Wiring to turn OFF Feather Power (Power Switch)
+ ### Wiring to turn OFF Feather Power (Power Switch):
 | Pin On Feather| To: |
 | ---------- |----------------|
 | EN Pin | GND  |
 
 
 
-### Parts needed
+### Parts needed:
 
 Feather https://amzn.to/2V9ZAvp
 
