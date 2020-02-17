@@ -23,7 +23,7 @@ battery indicator on OLEDpower switch puts board in to low power LDO Vreg
 Antenna: Antenna 915 MHz - 3 inches or 7.8 cm
  
  ### Wiring to turn OFF Feather Power (Power Switch)
-| Pin On Feather| ------ |
+| Pin On Feather| To: |
 | ---------- |----------------|
 | EN Pin | GND  |
 
@@ -37,6 +37,8 @@ Antenna: Antenna 915 MHz - 3 inches or 7.8 cm
 Feather https://amzn.to/2V9ZAvp
 
 Feather OLED https://amzn.to/32d72HD
+
+LiPo Battery https://amzn.to/2Hy2vWA
 
 ### Reference Links (also in code):
 

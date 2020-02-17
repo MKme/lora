@@ -7,6 +7,7 @@
  * Parts needed:
  * Feather https://amzn.to/2V9ZAvp
  * Feather OLED https://amzn.to/32d72HD
+ * LiPo Battery https://amzn.to/2Hy2vWA
  * 
  * Notes-Random Info I will lose:
  * OLED draws 10 mA when in use
