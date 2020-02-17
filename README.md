@@ -28,9 +28,8 @@ Antenna: Antenna 915 MHz - 3 inches or 7.8 cm
 | EN Pin | GND  |
 
 
-<p align="center">
-  <img src="haddimghere"/>
-</p>
+<p align="center"><img src="https://github.com/MKme/lora/blob/master/Photos/IMG_2609.jpg"/></p>
+<p align="center"><img src="https://github.com/MKme/lora/blob/master/Photos/IMG_2610.jpg"/></p>
 
 ### Parts needed
 
