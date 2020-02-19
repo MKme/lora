@@ -12,7 +12,7 @@ Website, Forum and store are at http://mkme.org <br>
 Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 </p>
 Full video here:
-TBD
+https://www.youtube.com/watch?v=zXHMCecD_5k
 <p align="center"><img src="https://github.com/MKme/lora/blob/master/Photos/IMG_2611.jpg"/></p>
 
 ### Easy project for any long range communications need
