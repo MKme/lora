@@ -39,6 +39,9 @@ LiPo Battery https://amzn.to/2Hy2vWA
 
 ### Reference Links (also in code):
 
+Install Feather 32U4 board support by following this guide: https://learn.adafruit.com/adafruit-feather-32u4-basic-proto/arduino-ide-setup
+- Or just add this location in IDE preferences https://adafruit.github.io/arduino-board-index/package_adafruit_index.json then add Adafruit AVR bOards in Boards manager
+
 Ref: Adafruit Power management https://learn.adafruit.com/adafruit-feather-m0-basic-proto/power-management#enable-pin
 
 Power switch: https://io.adafruit.com/blog/tip/2016/12/14/feather-power-switch/
